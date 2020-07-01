@@ -1,7 +1,7 @@
 # UsafiIoT
 WaziHub Innovation Competition Project Proposal Guide<br/>
 Usafi IoT-TechNawa (Smart hand washing system) <br/><br/>
-<b><h3><u>1. Team Composition</u></h3></b><br/>
+<b><h3><u>1. Team Composition</u></h3></b>
 Kamau Solomon	Embedded system Programmer.(Leader)	Solomonkamau19@gmail.com	+254710719728<br/>
 Henry Muchunga	Lead Engineer	emailtomuchunga@gmail.com	+254725590011<br/>
 Linet Kiunga	Software Developer	Lkiunga542@gmail.com	+254748115393<br/>
@@ -64,7 +64,7 @@ The node will consist of:
 13.	Dc power step up module
 14.	DC-DC voltage regulator.<br/>
 <b><h3>7. Project Implementation Plan</h3></b><br/>
-Sensing and communication. 
+<b><h4>Sensing and communication. </h4></b><br/>
 We will require to assemble the components for a node. The node will consist of sensors and actuators that will be connected on a breadboard by Henry Muchunga, who is the team hardware engineer. The node will be programmed by Solomon Kamau to make sure all the sensors and actuators are working well and as expected. The breadboarding circuit will be thereafter transferred to a PCB ready to be packaged.<br/>
 
 <b><h4>Data connectivity</h4></b><br/>
