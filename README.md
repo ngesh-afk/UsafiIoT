@@ -1,7 +1,7 @@
 # UsafiIoT
-WaziHub Innovation Competition Project Proposal Guide
-Usafi IoT-TechNawa (Smart hand washing system) 
-#1. Team Composition
+WaziHub Innovation Competition Project Proposal Guide<br/>
+Usafi IoT-TechNawa (Smart hand washing system) <br/><br/>
+<b><h3>1. Team Composition</h3</b><br/>
 Team Member Name	Role (E.g. Hardware Lead)	Email Address	Phone Number
 Kamau Solomon	Embedded system Programmer.(Leader)	Solomonkamau19@gmail.com	+254710719728
 Henry Muchunga	Lead Engineer	emailtomuchunga@gmail.com	+254725590011
