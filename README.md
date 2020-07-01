@@ -1,8 +1,7 @@
 # UsafiIoT
 WaziHub Innovation Competition Project Proposal Guide<br/>
 Usafi IoT-TechNawa (Smart hand washing system) <br/><br/>
-<b><h3>1. Team Composition</h3></b><br/>
-Team Member Name	Role (E.g. Hardware Lead)	Email Address	Phone Number<br/>
+<b><h3><u>1. Team Composition</u></h3></b><br/>
 Kamau Solomon	Embedded system Programmer.(Leader)	Solomonkamau19@gmail.com	+254710719728<br/>
 Henry Muchunga	Lead Engineer	emailtomuchunga@gmail.com	+254725590011<br/>
 Linet Kiunga	Software Developer	Lkiunga542@gmail.com	+254748115393<br/>
@@ -11,7 +10,7 @@ Brief overview about your product/idea.
 •	Summarize the problem. 
 •	What is the stage of the solution? Idea/Prototyping/Piloting/Scale
 •	Briefly summarize the proposed solution. 
-#Problem statement.
+<b><h3>Problem statement.</h3></b><br/>
 The spread of Corona Virus is caused by touching surfaces with this virus. This virus is then spread from one person easily without human being even indicating any symptoms of Covid -19 disease that is caused by the virus. One way to stop this disease from spreading is through regularly washing hands with running water and soap. 
 From our point of view, the way the exercise of washing hands is being done might not stop the spread of the virus. This is because when people are washing hands especially in public places, where the government or organization have put aside tanks for people to wash hands at, are using taps which people have to touch to let water run out of the tank. 
 When a person with the virus first touches the tap surface with their hands, they leave the virus there, washes their hands and touches the tap again coming into contact with the virus. When a second person with no virus comes to use the same tap, they will carry with them the virus by the end of the exercise.  This made us feel that to fully combat this disease that has affected the whole world, we should automate the manual taps with the automated ones.
