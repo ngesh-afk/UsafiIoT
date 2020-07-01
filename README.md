@@ -6,18 +6,14 @@ Kamau Solomon	Embedded system Programmer.(Leader)	Solomonkamau19@gmail.com	+2547
 Henry Muchunga	Lead Engineer	emailtomuchunga@gmail.com	+254725590011<br/>
 Linet Kiunga	Software Developer	Lkiunga542@gmail.com	+254748115393<br/>
 <b><h3>2. Introduction</b></h3><br/>
-Brief overview about your product/idea.
-•	Summarize the problem. 
-•	What is the stage of the solution? Idea/Prototyping/Piloting/Scale
-•	Briefly summarize the proposed solution. 
 <b><h3>Problem statement.</h3></b><br/>
 The spread of Corona Virus is caused by touching surfaces with this virus. This virus is then spread from one person easily without human being even indicating any symptoms of Covid -19 disease that is caused by the virus. One way to stop this disease from spreading is through regularly washing hands with running water and soap. 
 From our point of view, the way the exercise of washing hands is being done might not stop the spread of the virus. This is because when people are washing hands especially in public places, where the government or organization have put aside tanks for people to wash hands at, are using taps which people have to touch to let water run out of the tank. 
 When a person with the virus first touches the tap surface with their hands, they leave the virus there, washes their hands and touches the tap again coming into contact with the virus. When a second person with no virus comes to use the same tap, they will carry with them the virus by the end of the exercise.  This made us feel that to fully combat this disease that has affected the whole world, we should automate the manual taps with the automated ones.
 
-#Stage of the project.
+<b><h3>Stage of the project.</h3></b><br/>
 The project is at prototyping phase. 
-Proposed Solution.
+<b><h3Proposed Solution.</h3></b><br/>
 Teck Nawa (Smart hand washer system) is an automated hand washing system that will replace the already existing smart hand washing taps to reduce contacts of physical parts hence reducing the spread of Covid-19 (coronavirus) disease. This is a device that will improve the efficiency of washing hands. The device has key advantages such as low power consumption, portability and easy implementation steps. This model has championed for
 reliability, accuracy and scalability at the same time.
 An additional value about the device is that it can be implemented in new water stations or
@@ -25,12 +21,7 @@ already existing ones with ease. The device is intended to use less power which 
 portable, low cost and power effective solution that can be used to power the device without any
 issues.
 There are parameters that will be collected by the device such as frequency of washing hands, water level in the tank as well as temperature and humidity of the environment where the device is. This data will help in terms of making sure the tank is readily filled with or containing a volume of water enough to serve a certain period of time, know where the exercise of washing hands is high or low and finally to know whether weather change affects the action of washing hands. This data will be of help to government as well as private sectors who want to make sure the disease is under control.
-#3. Problem Statement
-Is there a need in the market? If there is, what problem is there?
-•	What is the history of the problem?
-•	Why is this problem interesting?
-•	When and why does the problem occur? 
-•	Are there any similar systems or solutions to the one you propose?
+<b><h3>3. Problem Statement</h3></b><br/>
 The simple act of hand washing, is the single most cost-effective way of stopping the spread of
 Coronavirus or otherwise most commonly known as COVID-19. However, the complexities
 that revolve around the handwashing exercise, pose by itself a threat towards a point to point
@@ -49,9 +40,9 @@ of a low-cost, low-power, automated “no-touch’’ hand-washing system. By us
 available materials. We therefore had an idea of having a system that can solve this problem. A simple swipe of your palms across the tap’s pout triggers a voluntary action of an electronic valve to open allowing water and liquid soap onto your hands for the duration of washing exercise. The absence of your
 palms cause the valve to shut automatically.
 The need of this system is large as it be needed either at home for personal use and in public facilities. This device was from the idea of stopping the spread of Corona virus but it will also help combat other diseases that are spread through germs due to lack of proper hygiene. 
-4. Goal of the Project
+<b><h3>4. Goal of the Project</h3></b><br/>
 The main goal of this project is to help flatten the rising cases of affected people by Corona virus as people go on with their normal life through reducing the contacts of surfaces during washing hands. The data  collected by the nodes will help a lot  making sure, necessities that are needed to help people keep washing their hands are provided including and not limited to educating the members of the public the importance of washing hands based on the data generated about where the exercise of washing hands is not embraced. 
-#5. Solution
+<b><h3>5. Solution</h3></b><br/>
 The device will be automated and no one will be touching surfaces while washing their hands. The device will be sensing hand palms and will be allowing liquidized soap to flow out. Every person using the system will be given time to apply soap thoroughly on their hands, after some time, water will be released out through a tap to help people rinse their hands before it switches off. The timer will be indicated by Light Emitting Diodes(LEDs) to notify people that water is almost running out so as to avoid water wastage. Data about the amount of water that has been dispensed, Level of water in the tank, Number of times tap has been opened, as well as temperature and humidity levels from the environment will be collected and pushed to the cloud using Waziup technology. 
 #6. Project Equipment 
 We will design a dashboard that will be used the visualize different parameters as they are logged from the cloud. The dashboard which have processed data will aid in term of making decissions and planning about what to do for a certain area where the devices are.
