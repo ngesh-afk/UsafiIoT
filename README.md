@@ -8,19 +8,15 @@ Linet Kiunga	Software Developer	Lkiunga542@gmail.com	+254748115393<br/>
 Willy Kimanzi Software Developer willycubekimanzi@gmail.com +254797351448</br>
 <b><h3>2. Introduction</b></h3><br/>
 <b><h3>Problem statement.</h3></b><br/>
-The spread of Corona Virus is caused by touching surfaces with this virus. This virus is then spread from one person easily without human being even indicating any symptoms of Covid -19 disease that is caused by the virus. One way to stop this disease from spreading is through regularly washing hands with running water and soap. 
+The spread of Corona Virus is caused by touching surfaces with this virus. This virus is then spread from one person easily without human being even indicating any symptoms of Covid -19 disease that is caused by the virus. One way to stop this disease from spreading is through regularly washing hands with running water and soap. <br/>
 From our point of view, the way the exercise of washing hands is being done might not stop the spread of the virus. This is because when people are washing hands especially in public places, where the government or organization have put aside tanks for people to wash hands at, are using taps which people have to touch to let water run out of the tank. 
 When a person with the virus first touches the tap surface with their hands, they leave the virus there, washes their hands and touches the tap again coming into contact with the virus. When a second person with no virus comes to use the same tap, they will carry with them the virus by the end of the exercise.  This made us feel that to fully combat this disease that has affected the whole world, we should automate the manual taps with the automated ones.<br/>
 
 <b><h3>Stage of the project.</h3></b><br/>
 The project is at prototyping phase. 
 <b><h3>Proposed Solution.</h3></b><br/>
-Teck Nawa (Smart hand washer system) is an automated hand washing system that will replace the already existing smart hand washing taps to reduce contacts of physical parts hence reducing the spread of Covid-19 (coronavirus) disease. This is a device that will improve the efficiency of washing hands. The device has key advantages such as low power consumption, portability and easy implementation steps. This model has championed for
-reliability, accuracy and scalability at the same time.
-An additional value about the device is that it can be implemented in new water stations or
-already existing ones with ease. The device is intended to use less power which means it can be used with a miniature solar panel, electricity or battery pack. In the end it is therefore expected to be
-portable, low cost and power effective solution that can be used to power the device without any
-issues.
+Teck Nawa (Smart hand washer system) is an automated hand washing system that will replace the already existing smart hand washing taps to reduce contacts of physical parts hence reducing the spread of Covid-19 (coronavirus) disease. This is a device that will improve the efficiency of washing hands. The device has key advantages such as low power consumption, portability and easy implementation steps. This model has championed forreliability, accuracy and scalability at the same time.<br/>
+An additional value about the device is that it can be implemented in new water stations or already existing ones with ease. The device is intended to use less power which means it can be used with a miniature solar panel, electricity or battery pack. In the end it is therefore expected to be portable, low cost and power effective solution that can be used to power the device without any issues.<br/>
 There are parameters that will be collected by the device such as frequency of washing hands, water level in the tank as well as temperature and humidity of the environment where the device is. This data will help in terms of making sure the tank is readily filled with or containing a volume of water enough to serve a certain period of time, know where the exercise of washing hands is high or low and finally to know whether weather change affects the action of washing hands. This data will be of help to government as well as private sectors who want to make sure the disease is under control.
 <b><h3>3. Problem Statement</h3></b><br/>
 The simple act of hand washing, is the single most cost-effective way of stopping the spread of
