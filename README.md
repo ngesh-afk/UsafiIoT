@@ -13,7 +13,7 @@ When a person with the virus first touches the tap surface with their hands, the
 
 <b><h3>Stage of the project.</h3></b><br/>
 The project is at prototyping phase. 
-<b><h3Proposed Solution.</h3></b><br/>
+<b><h3>Proposed Solution.</h3></b><br/>
 Teck Nawa (Smart hand washer system) is an automated hand washing system that will replace the already existing smart hand washing taps to reduce contacts of physical parts hence reducing the spread of Covid-19 (coronavirus) disease. This is a device that will improve the efficiency of washing hands. The device has key advantages such as low power consumption, portability and easy implementation steps. This model has championed for
 reliability, accuracy and scalability at the same time.
 An additional value about the device is that it can be implemented in new water stations or
@@ -66,13 +66,13 @@ The node will consist of:
 Sensing and communication. 
 We will require to assemble the components for a node. The node will consist of sensors and actuators that will be connected on a breadboard by Henry Muchunga, who is the team hardware engineer. The node will be programmed by Solomon Kamau to make sure all the sensors and actuators are working well and as expected. The breadboarding circuit will be thereafter transferred to a PCB ready to be packaged.<br/>
 
-<b><h4>Data connectivity</h3></b><br/>
+<b><h4>Data connectivity</h4></b><br/>
 A waziup Gateway will be set to run to ensure that data is being pushed to the WAZIUP dashboard. Programming of the node will be done to ensure that data collected by sensors and from actuators is published on the dashboard. This will be done by Solomon Kamau.
-Application Development
+<b><h4>Application Development</h4></b><br/>
 A web-based dashboard will be developed to help visualize data logged by the node. This data will be presented in a simple way that users will be able to understand. The data will help them make decision easily a way that will help fight with the pandemic. After the development of the application, an API will be added to help fetch data from the waziup dashboard to the user’s dashboard. This dashboard will contain information such as Humidity and temperature level, Number of times the tap has been opened. Amount of water remaining in the tank as well as graph showing the relationship between weather changes and frequency of washing hands. Dashboard development will be done by Linet Kiunga with the help of team members.
-#Business Validation
+<b><h4>Business Validation</h4></b><br/>
 When we are done the product will be tested internally to see if its working as expected. We will evaluate the product and make sure it meets or standard. Price will be discussed and reached upon after the cost and labor used to design and produce the item is evaluated.   We will thereafter approach our target customers including Government, Individual people, private organizations among other interesting parties. Upon getting the targeted customers, we will advertise the product to ensure those interested with the product got it at a friendly price. Deployment of the item will be done after sales services as well as maintaining the product for a given period of time as we train the users on how to fix non major issues when need arises.
-#8. Business Model 
+<b><h3>8. Business Model </h3></b><br/>
 Coming at a time the world is facing the Covid-19 menace, we believe our customer base is with institutions serving people at different levels. Here we have schools, hospitals, travel terminus among many. We seek to counter the threat in places where the danger of exchange of Covid-19 virus and other disease causing agents through contact is eminent.
 Our market will consist of institutions in the forefront in the fight against Covid-19. These institutions we are convinced they will find useful the data collected and channeled to Waziup platform to make appropriate changes. Here we expect the county governments, schools, hospitals, places of worship, real estate developers and private residents to form our market stronghold.
 Working together, we have strengths that make us ideal. One, is that all members have different backgrounds in technology which helps us develop a perspective based on information from embedded systems, Computer Aided Design, software development and the overall effect of the recent changes implemented to curb the disease’s spread. This makes gives our team the capacity to produce a viable solution to various problems. A common challenge we face however is lack of prototyping materials arising from being forced to stay away from innovation hubs when we often used to get out work done.
