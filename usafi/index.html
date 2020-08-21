@@ -79,7 +79,7 @@
                     <div class="row">
                         <div class="col offset-xl-0"><div class="input-group">
   <select class="custom-select" id="inputGroupSelect04" aria-label="Example select with button addon">
-    <option selected>Choose Device </option>
+    <!-- <option selected>Choose Device </option>
     <option value="1">TechNawa001</option>
     <option value="2">TechNawa002</option>
     <option value="3">TechNawa003</option>
@@ -89,7 +89,7 @@
    <option value="7">TechNawa007</option>
 	<option value="8">TechNawa008</option>
    <option value="9">TechNawa009</option>
-   <option value="10">TechNawa0010</option>
+   <option value="10">TechNawa0010</option> -->
   </select>
   <div class="input-group-append">
     <button class="btn btn-outline-secondary" type="button">Filter</button>
@@ -191,11 +191,11 @@
 </select></div>
                         <div class="col">
                             <div class="input-group mb-3">
-                                <div class="input-group-prepend"><span class="input-group-text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Longitude&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></div><input type="text" name="longitude" value="0.0000"></div>
+                                <div class="input-group-prepend"><span class="input-group-text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Longitude&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></div><input type="text" id="longitude" value="0.0000"></div>
                         </div>
                         <div class="col">
                             <div class="input-group mb-3">
-                                <div class="input-group-prepend"><span class="input-group-text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Latitude&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><input type="text" name="latitude" value="0.00000"></div>
+                                <div class="input-group-prepend"><span class="input-group-text">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Latitude&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><input type="text" id="latitude" name="latitude" value="0.00000"></div>
                         </div>
                     </div>
                     <div class="row">
@@ -205,7 +205,7 @@
                                     <div class="row align-items-center no-gutters">
                                         <div class="col mr-2">
                                             <div class="text-uppercase text-primary font-weight-bold text-xs mb-1"><span>Temperature</span></div>
-                                            <div class="text-dark font-weight-bold h5 mb-0"><span>0.00 °C)</span></div>
+                                            <div class="text-dark font-weight-bold h5 mb-0"><span id="temperature">0.00 °C)</span></div>
                                         </div>
                                         <div class="col-auto"><i class="fas fa-temperature-high fa-2x text-gray-300"></i></div>
                                     </div>
@@ -218,7 +218,7 @@
                                     <div class="row align-items-center no-gutters">
                                         <div class="col mr-2">
                                             <div class="text-uppercase text-success font-weight-bold text-xs mb-1"><span>Humidity</span></div>
-                                            <div class="text-dark font-weight-bold h5 mb-0"><span>0.00%</span></div>
+                                            <div class="text-dark font-weight-bold h5 mb-0"><span id="humidity">0.00%</span></div>
                                         </div>
                                         <div class="col-auto"><i class="fas fa-cloud-rain fa-2x text-gray-300"></i></div>
                                     </div>
@@ -233,11 +233,11 @@
                                             <div class="text-uppercase text-info font-weight-bold text-xs mb-1"><span>tank water level</span></div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
-                                                    <div class="text-dark font-weight-bold h5 mb-0 mr-3"><span>50%</span></div>
+                                                    <div class="text-dark font-weight-bold h5 mb-0 mr-3"><span id="waterlevel">50%</span></div>
                                                 </div>
                                                 <div class="col">
                                                     <div class="progress progress-sm">
-                                                        <div class="progress-bar bg-info" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"><span class="sr-only">50%</span></div>
+                                                        <div class="progress-bar bg-info" id="tcp" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 10%;"><span class="sr-only">50%</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -253,7 +253,7 @@
                                     <div class="row align-items-center no-gutters">
                                         <div class="col mr-2">
                                             <div class="text-uppercase text-warning font-weight-bold text-xs mb-1"><span>Tap counter</span></div>
-                                            <div class="text-dark font-weight-bold h5 mb-0"><span>0</span></div>
+                                            <div class="text-dark font-weight-bold h5 mb-0"><span id="tapc">0</span></div>
                                         </div>
                                         <div class="col-auto"><i class="fas fa-clock fa-2x text-gray-300"></i></div>
                                     </div>
@@ -301,6 +301,7 @@
     <script src="assets/js/select2-6.js"></script>
     <script src="assets/js/select2.js"></script>
     <script src="assets/js/theme.js"></script>
+    <script src="assets/js/functions.js"></script>
 </body>
 
 </html>
